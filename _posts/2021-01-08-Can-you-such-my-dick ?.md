@@ -3,7 +3,7 @@
 title: Can you such my dick ?
 subtitle: Nhien dang tao blog
 date: 2021-01-08
-tags: [nham_nhi]
+tags: [baiviet, hochoi]
 bigimg: "/assets/img/hello_world.jpeg"
 comments: true
 ---
