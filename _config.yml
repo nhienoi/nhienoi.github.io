@@ -40,10 +40,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "nhienduyvu@gmail.com"
-  facebook: Vu Duy Nhien
+  facebook: vuduynhienyeu.nguyenkhanhly
   github: nhienoi
   twitter: VuDuyNhien
-  youtube: c/Nhien Nhien
+  youtube: c/UCwHQxR1Ugo0NfzSsjLqkapw
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -71,7 +71,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -185,7 +185,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "HaNoi/VietNam"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
