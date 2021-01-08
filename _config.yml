@@ -15,10 +15,9 @@ author: Vu Duy Nhien
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - imgs: "_assets/img"
-    - Posts: "_posts"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Alo alo:
+    - imgs: "default"
+    - Post: "https://nhienoi.github.io"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Facebook: "https://facebook.com/vuduynhienyeu.nguyenkhanhly"
 
@@ -96,14 +95,14 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#FFB6C1"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#FFB6C1"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
