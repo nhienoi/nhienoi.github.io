@@ -366,10 +366,6 @@ img {
     width: 100%;
   }
 }
-.theme-by {
-  display: none;
-}
-
 /* --- Footer --- */
 
 footer {
@@ -384,9 +380,9 @@ footer {
   {% endif %}
 }
 
-footer p.text-muted {
+/* footer p.text-muted {
   color: {{ site.footer-text-col | default: "#777777" }} !important;
-}
+} */
 
 footer a {
   color: {{ site.footer-link-col | default: "#404040" }};
@@ -404,6 +400,7 @@ footer .copyright {
   margin-top: 0;
 }
 footer .theme-by {
+  display: none !important;
   text-align: center;
   margin: 0.625rem 0 0;
 }
