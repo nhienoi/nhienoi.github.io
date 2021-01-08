@@ -26,9 +26,9 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  color: #b5e853;
+  color: #b5e853; 
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-weight: 600;
+  font-weight: 900;
   line-height: 1.1;
 }
 h1 {
