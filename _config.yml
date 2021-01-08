@@ -16,9 +16,11 @@ author: Vu Duy Nhien
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - imgs: "_assets/img"
+    - Posts: "_posts"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Facebook: "https://facebook.com/vuduynhienyeu.nguyenkhanhly"
 
 # --- Logo --- #
 
