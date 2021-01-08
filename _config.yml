@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: MY DIARY
 
 # Your name to show in the footer
-author: Some Person
+author: Vu Duy Nhien
 
 # --- List of links in the navigation bar --- #
 
@@ -39,12 +39,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "nhienduyvu@gmail.com"
+  facebook: Vu Duy Nhien
+  github: nhienoi
+  twitter: VuDuyNhien
+  youtube: c/Nhien Nhien
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -77,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "nhienoi.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

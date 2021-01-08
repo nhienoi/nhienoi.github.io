@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Cai blog nay hay phet toi thich no =))
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Toi ten la Vu Duy Nhien, toi ngu tieng Anh qua hi vong mot ngay khong xa toi se gioi tieng anh
+-Toi muon gioi tieng anh de hoc lap trinh ay, ngu tieng anh kho qua
+-Toi muon thi dai hoc, nen la toi dang hoc rat cham chi
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Toi se khong luoi bieng ma cham chi hoc hanh moi ngay
 
-What else do you need?
+### Cau chuyen cua toi
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Blog nay de toi ghi may cai cau hoi ngu ngok hay nhung bai viet gi gi do ma toi phat hien ra hoac no don gian la mot cai nhat ki hang ngay
