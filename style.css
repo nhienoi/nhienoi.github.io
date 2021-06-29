@@ -99,9 +99,10 @@ ul li {
 /* .content {
     height: 400px;
 } */
+
 .todo {
     /* top: 0px; */
-    margin-top: 20px;
+    margin-top: 0px;
     width: 100vw;
     height: 100vh;
     background: rgb(0, 0, 0, 0.6);
@@ -138,4 +139,17 @@ ul li {
     position: relative;
     position: fixed;
     top: 0px;
+}
+@media screen and (max-width: 1083px){
+    .quote {
+        display: none;
+    }
+    .todolist {
+        font-size: 30px;
+    }
+    .content span {
+        font-size: 35px;
+        font-weight: 800;
+        color: yellow;
+    }
 }
